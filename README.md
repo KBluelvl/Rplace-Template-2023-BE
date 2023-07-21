@@ -14,6 +14,7 @@ It use this [templateManager](https://github.com/osuplace/templateManager) made 
 
   ![screen 2](https://github.com/KBluelvl/Rplace-Template-2023-BE/blob/main/images/readme/Template-settings.PNG)
 * Put this link : https://raw.githubusercontent.com/KBluelvl/Rplace-Template-2023-BE/main/template.json
+  
   into the input box and click on "Always Load"
 
   ![screen 3](https://github.com/KBluelvl/Rplace-Template-2023-BE/blob/main/images/readme/Template-URL.PNG)
