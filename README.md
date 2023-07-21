@@ -1,3 +1,16 @@
-# pixel-test
+# RPlace Template 2023 BE
+inpired by [AlphaGaming](https://github.com/AlphaGaming7780/Belgium-RPlace-Template-2023).
 
-![screen 1](https://github.com/KBluelvl/pixel-test/blob/main/belgium-cats.png?raw=true)
+It use this [templateManager](https://github.com/osuplace/templateManager) made by osuplace.
+
+1. [How to use it ?](#usage-instructions)
+
+## How to use it ?
+* Install a monkey. We recommend that you use [Violentmonkey](https://violentmonkey.github.io/get-it/) but any other monkey should work too.
+* Go to [link to the script](https://github.com/osuplace/templateManager/raw/main/dist/templateManager.user.js) to install the userscript(made by osuplace).
+* Once it's done reload R/Place (the page) and you would see this new button : 
+![screen 1]
+
+
+# the images:
+![screen 1](https://github.com/KBluelvl/Rplace-Template-2023-BE/blob/main/images/belgium-cats.png?raw=true)
