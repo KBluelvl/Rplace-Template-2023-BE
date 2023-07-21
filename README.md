@@ -1,5 +1,5 @@
 # RPlace Template 2023 BE
-inpired by [AlphaGaming](https://github.com/AlphaGaming7780/Belgium-RPlace-Template-2023).
+inspired by [AlphaGaming](https://github.com/AlphaGaming7780/Belgium-RPlace-Template-2023).
 
 It use this [templateManager](https://github.com/osuplace/templateManager) made by osuplace.
 
