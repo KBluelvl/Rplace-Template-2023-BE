@@ -21,4 +21,5 @@ It use this [templateManager](https://github.com/osuplace/templateManager) made 
 * And it's done !
 
 # the images:
-![screen 1](https://github.com/KBluelvl/Rplace-Template-2023-BE/blob/main/images/belgium-cats.png?raw=true)
+![image 1](https://github.com/KBluelvl/Rplace-Template-2023-BE/blob/main/images/belgium-cats.png?raw=true)
+![image 2](https://github.com/KBluelvl/Rplace-Template-2023-BE/blob/main/images/fp.png)
