@@ -8,8 +8,6 @@ It use this [templateManager](https://github.com/osuplace/templateManager) made 
 ## How to use it ?
 * Install a monkey. We recommend that you use [Violentmonkey](https://violentmonkey.github.io/get-it/) but any other monkey should work too.
 * Go to [link to the script](https://github.com/osuplace/templateManager/raw/main/dist/templateManager.user.js) to install the userscript(made by osuplace).
-* Once it's done reload R/Place (the page) and you would see this new button : 
-![screen 1]
 
 
 # the images:
