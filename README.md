@@ -7,7 +7,7 @@ It use this [templateManager](https://github.com/osuplace/templateManager) made 
 
 ## How to use it ?
 * Install a monkey. We recommend that you use [Violentmonkey](https://violentmonkey.github.io/get-it/) but any other monkey should work too.
-* Go to [link to the script](https://github.com/osuplace/templateManager/raw/main/dist/templateManager.user.js) to install the userscript(made by osuplace).
+* Go to [link to the script](https://github.com/osuplace/templateManager/raw/main/dist/templateManager.user.js) to install the userscript.
 
   ![screen 1](https://github.com/KBluelvl/Rplace-Template-2023-BE/blob/main/images/readme/setting.PNG?raw=true)
 * Click on it and you will see this UI
