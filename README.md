@@ -72,6 +72,6 @@ Convert the image you want in these color
 ![smurf](https://github.com/KBluelvl/Rplace-Template-2023-BE/blob/main/images/RPlace/Belgian/smurf/seriousbluejewel/smurf.png)
 ![bike](https://github.com/KBluelvl/Rplace-Template-2023-BE/blob/main/images/RPlace/Other/Bike/bike.png)
 
-all the images and idea are in the images folder.
+All the images and idea are in the [images folder](https://github.com/KBluelvl/Rplace-Template-2023-BE/tree/main/images).
 
 Documentation : https://docs.google.com/document/d/12WTiDcRo4P35zJvlgWX06MKVbitbDo3ehnF7mysFv4Y/edit?rm=minimal&pli=1
