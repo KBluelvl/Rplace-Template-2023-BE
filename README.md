@@ -60,8 +60,16 @@ Convert the image you want in these color
 |WHITE|`#ffffff`|
 
 # the images:
-![image 1](https://github.com/KBluelvl/Rplace-Template-2023-BE/blob/main/images/belgium-cats.png?raw=true)
-![image 2](https://github.com/KBluelvl/Rplace-Template-2023-BE/blob/main/images/fp.png)
-
+![belgium-cats](https://github.com/KBluelvl/Rplace-Template-2023-BE/blob/main/images/RPlace/Belgian/Belgium%20cats/mattbaraga/belgium-cats.png)
+![king-philippe](https://github.com/KBluelvl/Rplace-Template-2023-BE/blob/main/images/RPlace/Belgian/King%20Philippe/beerstalker/fp.png)
+![1830](https://github.com/KBluelvl/Rplace-Template-2023-BE/blob/main/images/RPlace/Belgian/1830/erkyos/1830.png)
+![frog](https://github.com/KBluelvl/Rplace-Template-2023-BE/blob/main/images/RPlace/Other/Frog/frog_3.png)
+![Billards-ball](https://github.com/KBluelvl/Rplace-Template-2023-BE/blob/main/images/RPlace/Belgian/Billards%20Ball/antodb/Billards_ball.png)
+![r93palm](https://github.com/KBluelvl/Rplace-Template-2023-BE/blob/main/images/RPlace/Other/93Palm/r93palm.png)
+![beer](https://github.com/KBluelvl/Rplace-Template-2023-BE/blob/main/images/RPlace/Belgian/Duvel%20beer/eren_g%20%26%20gopnik202/beer.png)
+![tintin-rocket](https://github.com/KBluelvl/Rplace-Template-2023-BE/blob/main/images/RPlace/Belgian/Tintin%20Rocket/Unknowns/rocketintin.png)
+![atonium](https://github.com/KBluelvl/Rplace-Template-2023-BE/blob/main/images/RPlace/Belgian/Atomium/azoulucoux/Atomium.png)
+![smurf](https://github.com/KBluelvl/Rplace-Template-2023-BE/blob/main/images/RPlace/Belgian/smurf/seriousbluejewel/smurf.png)
+![bike](https://github.com/KBluelvl/Rplace-Template-2023-BE/blob/main/images/RPlace/Other/Bike/bike.png)
 
 Documentation : https://docs.google.com/document/d/12WTiDcRo4P35zJvlgWX06MKVbitbDo3ehnF7mysFv4Y/edit?rm=minimal&pli=1
