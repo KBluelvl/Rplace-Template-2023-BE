@@ -60,7 +60,7 @@ Convert the image you want in these color
 |WHITE|`#ffffff`|
 
 # the images:
-![belgium-cats](https://github.com/KBluelvl/Rplace-Template-2023-BE/blob/main/images/RPlace/Belgian/Belgium%20cats/mattbaraga/belgium-cats.png)
+![belgium-cats](https://github.com/KBluelvl/Rplace-Template-2023-BE/blob/main/images/RPlace/Belgian/Belgium%20cats/KBlue/belgium-cats.png)
 ![king-philippe](https://github.com/KBluelvl/Rplace-Template-2023-BE/blob/main/images/RPlace/Belgian/King%20Philippe/beerstalker/fp.png)
 ![1830](https://github.com/KBluelvl/Rplace-Template-2023-BE/blob/main/images/RPlace/Belgian/1830/erkyos/1830.png)
 ![frog](https://github.com/KBluelvl/Rplace-Template-2023-BE/blob/main/images/RPlace/Other/Frog/frog_3.png)
